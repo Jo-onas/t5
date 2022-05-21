@@ -3,3 +3,4 @@ let b = Number (prompt("digite outro numero").replace(",","."))
 let c = a+b
 alert (`A soma é igual á ${c}`)
 document.write(`<strong>A soma é ${c}</strong>`)
+document.write(`<strong>Teste de texto</strong>`)
